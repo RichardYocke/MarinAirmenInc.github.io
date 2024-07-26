@@ -15,7 +15,7 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
-    background: #FBFAE8;
+    background: #f8f2e4;
 }
 
 /*
@@ -26,12 +26,12 @@ html {
  */
 
 ::-moz-selection {
-    background: #b3d4fc;
+    background: #f8f2e4;
     text-shadow: none;
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: #f8f2e4;
     text-shadow: none;
 }
 
@@ -130,7 +130,7 @@ textarea {
     max-width: 100vw;
     max-height: 100vh;
     z-index: 1000;
-    border: 8px solid #A61F2D;
+    border: 8px solid #843537;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     object-fit: contain;
 }
@@ -154,12 +154,12 @@ textarea {
 }
 
 .line {
-    border-bottom: 4px solid #A61F2D;
+    border-bottom: 4px solid #843537;
     margin-top: 5px;
     width: 90%;
 }
 .line1 {
-    border-bottom: 4px solid #f1d7aa;
+    border-bottom: 4px solid #d1bc91;
     margin-top: 0px;
     width: 90%;
 }
